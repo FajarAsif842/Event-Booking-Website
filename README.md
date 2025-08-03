@@ -1,5 +1,5 @@
 #  Event Booking Website
-## 📝 Project Objective
+##  Project Objective
 
 The **Event Booking Website** is designed to help users browse and register for different types of upcoming events such as webinars, workshops, and orientation sessions.
 
@@ -60,7 +60,7 @@ npm run dev
 Vite will show a local dev server URL like:
 
 http://localhost:5173/
-✅ Ensure:
+Ensure:
 Backend is running on port 5000
 
 Frontend is running on port 5173
